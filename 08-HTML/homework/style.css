@@ -1,0 +1,31 @@
+#cabecera {
+	text-align: center;
+
+}
+
+h1 {
+	font-size: 40;
+	font: "Verdana";
+}
+
+h3 {
+	font-size: 25;
+	font: "Verdana";
+	font-style: italic;
+}
+h4 {
+	font-style: italic;
+}
+
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUzy_t2QRYc-M2zSP-2GybwzYRjJgf7GmxAjrRuc&s);
+}
+#fotoPerfil {
+	width:100px ;
+
+}
+
+.bloques{
+
+text-decoration: italic;
+}
