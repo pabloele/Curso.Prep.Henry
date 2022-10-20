@@ -1,0 +1,33 @@
+.divClass {
+text-align: center;
+}
+
+#thirdDiv {
+	height: 600;
+	width: 500;
+	background-color: gray;
+	padding: 50px;
+	border-width: 15px;
+	border-color: darkred;
+	border-style: solid;
+
+
+}
+
+h1 {color: tomato;
+	text-align: center;
+}
+
+img {width: 400px;}
+
+#spanId {
+	font-size: 18;
+	margin: 50px;
+	text-align: center;
+
+}
+body {
+	background-image: url(https://previews.123rf.com/images/ozzichka/ozzichka1603/ozzichka160300019/54209552-trama-de-fondo-blanco-fondo-de-pantalla-con-forma-geom%C3%A9trica-repetici%C3%B3n-ilustraci%C3%B3n-del-vector-de-en.jpg);
+	text-align: center;	
+	}
+}
